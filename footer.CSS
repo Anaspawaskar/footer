@@ -1,0 +1,35 @@
+body{
+    font-family: 'Lobster', cursive;
+    padding: 0px;
+    margin: 0px;
+    background-color: aqua;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(15, 237, 237);
+    align-items: end;
+    height: 100vh;
+
+}
+ footer section{
+   background-color: white;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px  40px 40px 40px;
+    
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+#in{
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+    color: grey;
+    font-weight: bolder;
+}
